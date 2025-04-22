@@ -1,4 +1,4 @@
-package com.practice.coding.leetcode.array;
+package com.practice.coding.leetcode.array.intermediate;
 
 public class KadensAlgo {
 
